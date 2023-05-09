@@ -76,3 +76,7 @@ last_name:str = "Name"
 email:str = "name@gmail.com"
 permanent_address:str = ""
 date_of_birth:str = ""
+
+# ya samma clear nai xa ni haina?
+# ahh...ruka haiii
+# khaiii tmeee???
